@@ -53,7 +53,7 @@ This tool empowers educators and institutions to **proactively identify students
 
 ## 🌐 Live Demo
 
-> 🚀 **[Click here to open the app](https://your-app-link.streamlit.app)**
+> 🚀 **[Click here to open the app](https://edupredict-ai-ayr6napnbx9at8tsfhxevf.streamlit.app)**
 > *(Replace with your Streamlit Cloud URL after deployment)*
 
 ---
