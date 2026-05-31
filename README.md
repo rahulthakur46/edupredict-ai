@@ -192,11 +192,15 @@ https://your-app-name.streamlit.app
 
 | Home Dashboard | Prediction Page |
 |---|---|
-| ![Home](screenshots/home.png) | ![Predict](screenshots/predict.png) |
+| ![Home](<img width="1920" height="1080" alt="Screenshot 2026-05-31 055737" src="https://github.com/user-attachments/assets/d52a2df1-1099-49a8-be47-3dd1739f9def" />
+) | ![Predict](<img width="1920" height="1080" alt="Screenshot 2026-05-31 055701" src="https://github.com/user-attachments/assets/9488a7c1-f89c-4fc1-a1d4-1b0c0712ef74" />
+) |
 
 | Analytics | Dataset Explorer |
 |---|---|
-| ![Analytics](screenshots/analytics.png) | ![Dataset](screenshots/dataset.png) |
+| ![Analytics](<img width="1920" height="1080" alt="Screenshot 2026-05-31 055907" src="https://github.com/user-attachments/assets/e5eb1163-d707-4e10-b632-dd66f954b29e" />
+) | ![Dataset](<img width="1920" height="1080" alt="Screenshot 2026-05-31 060446" src="https://github.com/user-attachments/assets/40003cc2-e095-49e2-b46b-f50b2869f488" />
+) |
 
 ---
 
